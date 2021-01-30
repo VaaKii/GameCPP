@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message UpdatePlayer {
+    float posX = 1;
+    float posY = 2;
+    float sizeX = 3;
+    float sizeY = 4;
+}
