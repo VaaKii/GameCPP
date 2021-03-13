@@ -1,4 +1,4 @@
-#include "Core.hh"
+#include "Core.hpp"
 
 Core::Core(){}
 
